@@ -234,7 +234,3 @@ Through this project, I learned:
 
 
 
-
-# 📌 Professional GitHub Title
-
-## 🔹 Customer Churn Analysis using Python | EDA & Data Visualization
